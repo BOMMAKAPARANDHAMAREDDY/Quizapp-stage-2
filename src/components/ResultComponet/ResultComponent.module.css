@@ -1,0 +1,54 @@
+html,
+body {
+    background-color: rgb(80, 41, 143);
+    height: 90%;
+}
+
+.result {
+    background-color: rgb(80, 41, 143);
+    text-align: center;
+    color: rgb(17, 115, 38);
+    padding-bottom: 5%;
+}
+
+.resultPageContainer {
+    background-color: rgb(255, 255, 255);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.headerContainer {
+    text-align: center;
+    color: rgb(71, 5, 253);
+}
+
+.headerContainer p {
+    color: #000000;
+    font-weight: 700;
+}
+
+.resultContainer{
+    font-weight: 700;
+    margin: 3%;
+    padding: 5%;
+}
+.resultContainer span{
+    position: absolute;
+    right: 30%;
+}
+.buttonContainer{
+    background-color: rgb(80, 41, 143);
+    margin-left: 40%;
+}
+.buttonContainer button{
+    border: 0px;
+    margin: 3%;
+}
+#playAgain{
+    border: 3px solid rgb(150, 134, 232);
+    color: rgb(150, 134, 232);
+}
+#home{
+    border: 3px solid rgb(28,103,51);
+    color: rgb(28,103,51);
+}
